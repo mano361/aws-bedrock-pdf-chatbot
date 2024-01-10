@@ -1,0 +1,9 @@
+langchain
+streamlit
+pdfminer.six
+pgvector
+InstructorEmbedding
+sentence-transformers
+psycopg2-binary
+python-dotenv
+boto3
