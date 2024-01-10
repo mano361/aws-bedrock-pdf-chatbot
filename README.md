@@ -27,5 +27,5 @@ Before running the app, make sure you have the following:
 
 ## TO RUN
 
-- Local: streamlit run streamlit_web_app_sample.py
-- EC2: python3 -m streamlit run streamlit_web_app_sample.py (Don't forget to enable the port 8501 in EC2)
+- Local: ```streamlit run streamlit_web_app_sample.py```
+- EC2: ```python3 -m streamlit run streamlit_web_app_sample.py``` (Don't forget to enable the port 8501 in EC2)
