@@ -8,6 +8,9 @@ This is a simple Streamlit chatbot app for talking to your uploaded PDF File(s)
 - **Embedding Generation:** Embeddings are generated using Sentence Transformers - all-MiniLM-L6-v2
 - **Chatbot Page:** Ask questions about the uploaded PDF File(s).
 
+## Flow Diagram
+![alt text](https://github.com/mano361/aws-bedrock-pdf-chatbot/blob/main/static/bedrock_app_flow_diagram.jpg)
+
 ## Prerequisites
 
 Before running the app, make sure you have the following:
